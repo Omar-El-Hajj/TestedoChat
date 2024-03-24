@@ -7,8 +7,8 @@
 
 			embeddedservice_bootstrap.init(
 				'00Dbm000000fbKg',
-				'Kratos',
-				'https://wise-narwhal-owqw37-dev-ed.trailblaze.my.site.com/ESWKratos1711314368185',
+				'Preview',
+				'https://wise-narwhal-owqw37-dev-ed.trailblaze.my.site.com/ESWPreview1711315109908',
 				{
 					scrt2URL: 'https://wise-narwhal-owqw37-dev-ed.trailblaze.my.salesforce-scrt.com'
 				}
@@ -18,6 +18,6 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://wise-narwhal-owqw37-dev-ed.trailblaze.my.site.com/ESWKratos1711314368185/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://wise-narwhal-owqw37-dev-ed.trailblaze.my.site.com/ESWPreview1711315109908/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
 </body>
 </html>
